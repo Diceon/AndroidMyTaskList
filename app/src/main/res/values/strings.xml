@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMyTaskList</string>
+    <string name="TaskDeleteBtn">Delete</string>
+    <string name="menu_text" />
+</resources>
